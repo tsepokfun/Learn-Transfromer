@@ -1,0 +1,15 @@
+# 忽略所有数据集文件
+*.txt
+*.json
+*.csv
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略虚拟环境
+.venv/
+
+# 忽略所有 PyTorch 模型权重文件
+*.pt
+*.pkl
